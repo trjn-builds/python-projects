@@ -1,0 +1,12 @@
+* 
+!*/
+!*.py
+!*.ico
+!.gitignore
+venv/
+build/
+dist/
+*.build/
+*.dist/
+*onefile-build/
+__pycache__/
